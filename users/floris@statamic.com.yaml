@@ -1,5 +1,6 @@
 name: 'Floris Meccanici'
 super: true
+avatar: floris.jpeg
 id: 86c56b85-8c8a-4d59-a3f2-b1a063d0ebbf
 password_hash: $2y$10$8sbKP8joLHLOxTHdybhVVujjyWPQ4ik/YsHkPLMjijlmVCGnz.LQu
 preferences:
