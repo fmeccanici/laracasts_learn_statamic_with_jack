@@ -1,7 +1,7 @@
-name: 'Jack McDade'
+name: 'Floris Meccanici'
 super: true
 id: 86c56b85-8c8a-4d59-a3f2-b1a063d0ebbf
-password_hash: $2y$10$LRRN.oVSjJtIg7QnvyxEIegVhQZF3eGAaINrZnHXKhIIgpp8knzCW
+password_hash: $2y$10$8sbKP8joLHLOxTHdybhVVujjyWPQ4ik/YsHkPLMjijlmVCGnz.LQu
 preferences:
   assets:
     assets:
