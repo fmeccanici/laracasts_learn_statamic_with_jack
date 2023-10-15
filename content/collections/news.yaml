@@ -2,6 +2,8 @@ title: 'News Articles'
 template: news/show
 layout: layout
 mount: 4914a0c0-4873-4398-b234-9178e9212253
+taxonomies:
+  - tags
 revisions: false
 route: '/{mount}/{slug}'
 date: true
