@@ -1,0 +1,12 @@
+tree:
+  -
+    id: 7d4b8f51-7df6-4abc-9178-2d9169174b3e
+    title: 'Cool things'
+    url: 'https://ugmonk.com'
+  -
+    id: 62754e9e-166a-4b84-b712-515767c7b9d8
+    title: 'Cool CSM'
+    url: 'https://statamic.com'
+  -
+    id: d7f3a425-5815-45c9-8bd5-6a53c4cf9ec6
+    entry: b777877a-8c00-44a0-9ff4-515d0844c464
