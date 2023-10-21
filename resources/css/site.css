@@ -8,3 +8,8 @@
         }
     }
 }
+
+
+.quote-block {
+    @apply text-xl pl-8 border-l-4 border-yellow text-yellow font-bold mb-8;
+}

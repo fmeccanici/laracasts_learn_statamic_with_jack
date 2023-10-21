@@ -525,6 +525,19 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.quote-block {
+  margin-bottom: 2rem;
+  border-left-width: 4px;
+  --tw-border-opacity: 1;
+  border-color: rgb(255 245 181 / var(--tw-border-opacity));
+  padding-left: 2rem;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 700;
+  --tw-text-opacity: 1;
+  color: rgb(255 245 181 / var(--tw-text-opacity));
+}
+
 .pointer-events-none {
   pointer-events: none;
 }
@@ -628,6 +641,10 @@ video {
 
 .ml-6 {
   margin-left: 1.5rem;
+}
+
+.mt-4 {
+  margin-top: 1rem;
 }
 
 .-ml-1 {
@@ -1151,6 +1168,10 @@ video {
 
 .font-bold {
   font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
 }
 
 .leading-normal {
